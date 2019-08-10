@@ -1,3 +1,20 @@
 p {
     color: blue;
 }
+
+.navbar{
+    background-color: #38D39F;
+}
+
+body{
+    background-color: #CFF8EB;
+}
+
+.main-text{
+    color: #38D39F;
+    font-size: 120px;
+}
+
+.main{
+    padding-left: 60px;
+}
