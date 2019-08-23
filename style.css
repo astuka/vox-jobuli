@@ -16,6 +16,12 @@ body{
     padding-left: 40px;
 }
 
+.sub-text{
+    color: #38D39F;
+    font-size:40px;
+    text-align: center;
+}
+
 .big-boy{
     padding-left: 60px;
 }
