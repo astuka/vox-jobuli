@@ -17,6 +17,22 @@ body{
     padding-left: 40px;
 }
 
+#head_section{
+    padding-top:10px;
+}
+
+#section1{
+    padding-top:300px;
+}
+
+#section2{
+    padding-top:300px;
+}
+
+.inner{
+    padding-top:40px;
+}
+
 .sub-text{
     color: #38D39F;
     font-size:40px;
@@ -36,7 +52,6 @@ body{
     border: none;
     color: #CFF8EB;
     padding: 10px 31px;
-    text-align: center;
     text-decoration: none;
     display: inline-block;
     font-size: 16px;
@@ -46,7 +61,6 @@ body{
 .pinky{
     display: grid;
     grid-template-columns: repeat(2, 1fr);
-    /* grid-template-rows: repeat(5, 1fr); */
     grid-column-gap: 0px;
     grid-row-gap: 0px;
 } 
