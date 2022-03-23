@@ -20,6 +20,11 @@ li{
     padding-right:30px;
 }
 
+text{
+    color:white;
+    font-size:15pt;
+}
+
 #nav-header{
     font-size: 64pt;
 }
